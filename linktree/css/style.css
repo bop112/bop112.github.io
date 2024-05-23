@@ -52,6 +52,10 @@ body {
     stroke: #ed4d82;
     fill: #ed4d82;
   }
+
+  .irvolver{
+    text-align: center;
+  }
   
   @media screen and (max-width: 767px) {
     .container {
